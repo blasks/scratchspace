@@ -3,3 +3,13 @@ this is methane. it's a gas
 CH4
 
 there are some microbes that like to eat this
+
+we want to engineer microbes that can intake it from formaldehyde
+
+COH2
+
+which can be obtained from formate
+
+CHOOH
+
+which is a reduction of CO2
